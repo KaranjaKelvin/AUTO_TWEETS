@@ -1,0 +1,2 @@
+# Example: start at 06:00 EAT
+cron: "0 3 * * *"
