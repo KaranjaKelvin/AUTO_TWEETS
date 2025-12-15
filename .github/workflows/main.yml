@@ -1,2 +1,4 @@
-# Example: start at 06:00 EAT
-cron: "0 3 * * *"
+on:
+  schedule:
+    - cron: "0 4 * * *"
+
